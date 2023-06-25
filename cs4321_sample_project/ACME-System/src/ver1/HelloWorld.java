@@ -8,5 +8,11 @@ public class HelloWorld
 		System.out.println("Hello World");
 		System.out.println("Josh is working locally on his branch");
 	}
+	
+	public void heyNow()
+	{
+		String Msg = "Hey Now!";
+		System.out.println(Msg);
+	}
 
 }
