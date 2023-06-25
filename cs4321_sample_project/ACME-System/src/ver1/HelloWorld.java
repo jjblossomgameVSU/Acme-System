@@ -7,6 +7,7 @@ public class HelloWorld
 	{
 		System.out.println("Hello World");
 		System.out.println("Josh is working locally on his branch");
+		System.out.println("hi");
 	}
 	
 	public void heyNow()
