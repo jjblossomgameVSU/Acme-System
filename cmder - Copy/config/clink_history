@@ -1,0 +1,136 @@
+|CTAG_1687124773_108949921_5424_0
+git
+git config --global user.name "Joshua Blossomgame"
+git config --global user.email jjblossomgame@valdosta.edu
+git config -1
+git config -l
+|:
+|kdir gitex
+|ir
+|d gitex
+|otepad foo.txt
+|it status
+|it init
+|d .git
+|ir
+|it status
+|it add foo.txt
+|it status
+|d ..
+|mdir /s gitex
+|otepad foo.txt
+|it status
+|it init
+|d .git
+|ir
+|d ..
+|it status
+|it status
+|it add foo.txt
+|it status
+dir gitex
+git gitex
+git config core.ignoreStatErrors true
+|it add foo.txt
+|ir
+cd foo.txt
+cd .get
+|d .git
+|ir
+|it add foo.txt
+   git config --global --add safe.directory E:/gitex/.git
+|ir
+|it status
+|d ..
+|it status
+|d .git
+|it add -A foo.txt
+|d ..
+git add -A foo.txt
+|mdir /s gitex
+|d ..
+rmdir /s gitex
+|ir
+|d ..
+e:
+|ir
+|kdir gitex
+|ir
+|d gitex
+|otepad foo.txt
+|ir
+|at foo.txt
+|it status
+|it init
+|it status
+|it status
+|ir
+|d .git
+|ir
+|d ..
+|it status
+|ir
+|it status
+|otepad foo.txt
+|it status
+git config --global --add safe.directory E:/gitex
+|it status
+|it commit -m "new file added" -m "this file is used to let the user know about all the new hello world options that are available"
+|it status
+|it log
+|it commit -m "new file added" -m "this file is used to let the user know about all the new hello world options that are available"
+|it log
+|otepad foo.txt
+|it status
+git add .
+git commit -m "Provided more info in foo"
+|it log
+notepad fee.txt
+|it status
+git add fee.txt
+git commit -m "Added to make more robust"
+git rm fee.txt
+|it status
+git commit -m "Decided it didn't add much"
+|it status
+|otepad foo.txt
+|it add foo.txt
+|it status
+git reset foo.txt
+|it status
+type foo.txt
+git checkout foo.txt
+|it status
+type foo.txxt
+cat foo.txt
+|it log
+mkdir gitex
+|ir
+cd gitex
+foo.txt
+git init
+|d .git
+|d ..
+dir
+cd .git
+|it add foo.txt
+|it status
+|�  git commit -m "new file added" -m "this file is used to let the user know about all the new hello world options that are available"
+git log
+|it status
+|otepad foo.txt
+|it add foo.txt
+cd ..
+|it status
+|it add foo.txt
+|otepad foo.txt
+add foo.txt
+git add foo.txt
+λ  git commit -m "new file added" -m "this file is used to let the user know about all the new hello world options that are available"
+git commit -m "new file added" -m "this file is used to let the user know about all the new hello world options that are available"
+λ  notepad foo.txt
+notepad goo.txt
+|otepad foo.txt
+λ  git commit –m “Provided more info in foo"
+notepad foo.txt
+git status
